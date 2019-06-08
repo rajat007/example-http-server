@@ -7,6 +7,9 @@
     "server": "node ./server",
     "client": "node ./client"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Rajat Singh",
+  "contributors": [
+    "Chandresh Rajkumar Manonmani"
+  ],
+  "license": "UNLICENSED"
 }
